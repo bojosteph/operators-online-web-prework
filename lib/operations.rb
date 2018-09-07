@@ -3,10 +3,10 @@
   speed = > 60 and < 40 
   if speed > 60 and < 40
     puts "unsafe "
-    
+  binding.pry  
   else  
     puts "safe"   
-  binding.pry     
+     
   
 end
 
