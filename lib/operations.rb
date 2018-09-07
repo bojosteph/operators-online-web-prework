@@ -6,7 +6,7 @@
   
   else  
     puts "safe"   
-     
+  binding.pry   
   
 end
 
